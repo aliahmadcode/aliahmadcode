@@ -1,32 +1,18 @@
+# Hey!
 
-# 👋 Hi, I’m Ali Ahmad (@aliahmadcode)  
+I am a Computer Science undergraduate currently learning full-stack development. I have completed two internships and have approximately one year of experience working remotely on full-stack projects. Due to my study schedule, I am currently freelancing part-time to utilize my skills.
 
-## 🚀 About Me  
-I'm a **Full-Stack Software Engineer** with **2 years of experience**, specializing in **JavaScript, TypeScript, and Node.js**. I build scalable and high-performance web applications using **React.js, Next.js, Nest.js, and Express.js**.  
+## Goals
 
-I have hands-on experience working with **SQL (PostgreSQL) and NoSQL (MongoDB) databases** and am actively advancing my expertise in **AWS Cloud and Microservice Architecture**.  
+1. Building **automated loom-style video** generation tool for client outreach for **everyone**. Soon!
+2. Learning "more typescript (never ends!)" and Rust.
 
-## 👀 Interests  
-- Backend & API Development  
-- Cloud Computing & DevOps  
-- Microservice Architecture  
-- Data Structures & Algorithms (solving problems on **LeetCode & HackerRank**)  
-- Mobile App Development with **React Native & Expo**  
+## Links
 
-## 🌱 Currently Learning  
-- Advanced **AWS Cloud Services**  
-- Low-level **system programming in Go** (building a simple firewall)  
-- Enhancing **authentication flows** in mobile apps (Google & Facebook login in **React Native**)  
-- Improving **Docker & containerized development workflows**  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-ahmad-994b2227a/)
+- Read my thoughts here [X](https://x.com/aliahmadcode)
 
-## 💡 Collaboration  
-I'm open to collaborating on **full-stack web applications, cloud-based solutions, and mobile apps**. If you’re working on something exciting, let’s connect!  
+## Freelancing Profiles
 
-## 📫 Connect with Me  
-- **Website:** [portfolio](https://www.aliahmadcode.com/)  
-- **GitHub:** [aliahmadCode](https://github.com/aliahmadcode)  
-- **LinkedIn:** *[https://www.linkedin.com/in/ali-ahmad-994b2227a/]*  
-- **Email:** *[ali@aliahmadcode.com]*  
-
-## ⚡ Fun Fact  
-I’m starting an **ASMR programming YouTube channel** to share coding insights in a relaxing way! 🎧  
+- Upwork [Upwork](https://www.upwork.com/freelancers/~019f80c2e545bcbecc)
+- Fiverr [Fiverr](https://www.fiverr.com/s/ljWyalb)
