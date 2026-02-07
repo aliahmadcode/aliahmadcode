@@ -7,10 +7,10 @@ I am a Computer Science undergraduate currently learning full-stack development.
 
 ## Links
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-ahmad-994b2227a/)
-- Read my thoughts here [X](https://x.com/aliahmadcode)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/ali-ahmad-994b2227a/)
+- [Read my thoughts](https://x.com/aliahmadcode)
 
 ## Freelancing Profiles
 
-- Upwork [Upwork](https://www.upwork.com/freelancers/~019f80c2e545bcbecc)
-- Fiverr [Fiverr](https://www.fiverr.com/s/ljWyalb)
+- [Upwork](https://www.upwork.com/freelancers/~019f80c2e545bcbecc)
+- [Fiverr](https://www.fiverr.com/s/ljWyalb)
