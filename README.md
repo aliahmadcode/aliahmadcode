@@ -1,5 +1,3 @@
-# Hey!
-
 I am a Computer Science undergraduate currently learning full-stack development. I have completed two internships and have approximately one year of experience working remotely on full-stack projects. Due to my study schedule, I am currently freelancing part-time to utilize my skills.
 
 ## Goals
